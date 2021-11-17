@@ -1,0 +1,20 @@
+.cardPelicula {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 250px;
+  margin: 40px;
+  border: 1px solid gray;
+  padding: 20px;
+  background-color: gainsboro;
+}
+
+.cartelPelicula {
+  max-width: 250px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
